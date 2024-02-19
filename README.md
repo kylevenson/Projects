@@ -1,0 +1,1 @@
+The following folder contains a mix of personal and academic projects. This is not a comprehensive overview of the skillset I have developed and will continue to evolve, though it helps provide a starting point to understand my work thus far
